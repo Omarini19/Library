@@ -1,0 +1,52 @@
+
+
+#formu {
+    display: none;
+    
+    
+  }
+
+.delete {
+    display: block;
+}
+
+#newBookButton {
+    width: 200px;
+    height: 100px;
+    font-size: x-large;
+    background-color: blue;
+    color: gold;
+    font-family: fantasy;
+}
+
+.newButton {
+text-align: center;
+margin-top: 50px;
+padding-bottom: 30px;
+}
+
+.tableau {
+border-top: solid black 1px;
+}
+
+.formcontainer {
+    text-align: center;
+}
+
+.inpu {
+    margin: 15px;
+}
+
+input {
+    width:40%;
+}
+
+.read {
+    background: chartreuse;
+    padding: 5px;
+}
+
+.notRead{
+    background: crimson;
+    padding: 5px;
+}
